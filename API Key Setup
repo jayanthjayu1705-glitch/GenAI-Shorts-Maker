@@ -1,0 +1,23 @@
+To run this code, you will need two free API keys.
+
+1. Google Gemini API Key (For the Brain/Scripting)
+Go to Google AI Studio.
+
+Sign in with your Google account.
+
+Click on "Get API key" in the left-hand menu.
+
+Click "Create API key" and copy the generated string.
+
+Paste this key into the GEMINI_API_KEY variable in the script.
+
+2. Hugging Face Access Token (For Image Generation)
+Go to Hugging Face and create a free account.
+
+Click on your profile picture in the top right and go to Settings.
+
+Select Access Tokens from the left menu.
+
+Click "New token" (a 'Read' role is fine for this).
+
+Copy the generated token and paste it into the HUGGINGFACE_TOKEN variable in the script.
