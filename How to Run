@@ -1,0 +1,11 @@
+Clone this repository to your local machine.
+
+Open the script and ensure your API keys are added.
+
+Run the script:
+
+Bash
+python main.py
+When prompted in the terminal, type a topic (e.g., "What happens if you swallow a spider?").
+
+Wait for the pipeline to finish processing. The final rendered video will be saved in the /output folder!
