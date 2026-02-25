@@ -1,0 +1,8 @@
+You will need Python installed on your machine. To run this project, install the required packages using pip:
+
+Bash
+pip install google-generativeai
+pip install edge-tts
+pip install moviepy
+pip install requests
+(Note: asyncio, json, and os are built into standard Python and do not need to be installed separately).
